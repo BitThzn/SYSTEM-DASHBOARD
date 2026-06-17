@@ -1,0 +1,38 @@
+
+
+:root {
+  --bg-principal: #000000;            
+  --bg-card: #000000;                
+  --texto-principal: #ffffff;         
+  --texto-secundario: #888888;        
+  --vermelho-neon: #ff0000;           
+  --vermelho-neon-glow: rgba(255, 0, 0, 0.6);
+  --vermelho-neon-dim: #3a0000;       
+  --verde-neon: #00ff00;              
+  --verde-neon-glow: rgba(0, 255, 0, 0.6);
+  --borda-glow: rgba(255, 0, 0, 0.3);
+  --fonte-cyber: 'Courier New', Courier, monospace;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-principal);
+  color: var(--texto-principal);
+  font-family: var(--fonte-cyber);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+button, input, textarea {
+  font-family: var(--fonte-cyber);
+}
+
+button {
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
