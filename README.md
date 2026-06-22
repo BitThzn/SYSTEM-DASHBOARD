@@ -33,6 +33,16 @@ Um dashboard full stack para gerenciamento de projetos com interface inspirada e
 - MySQL
 
 ---
+## Imagens do projeto
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a99e381-95b7-4d6b-8c6f-3ed3bc6d192d" />
+<img width="1920" height="1080" alt="image (2)" src="https://github.com/user-attachments/assets/cf298bbe-0100-4767-95a7-b4040a833555" />
+<img width="1920" height="1080" alt="image (1)" src="https://github.com/user-attachments/assets/a644b7c9-abaa-45bc-8b90-192c05d6e6b5" />
+<img width="1920" height="1080" alt="image (3)" src="https://github.com/user-attachments/assets/1386565d-4ac6-45e4-a9e4-ad333c011ea9" />
+<img width="1920" height="1080" alt="image (4)" src="https://github.com/user-attachments/assets/5c5a69b2-ba81-40e6-bd4b-2abce04a9156" />
+<img width="1920" height="1080" alt="image (5)" src="https://github.com/user-attachments/assets/fe9571ef-38c7-47ff-ada8-f03c050d1df0" />
+
+
+---
 
 ## 📂 Estrutura do Projeto
 
